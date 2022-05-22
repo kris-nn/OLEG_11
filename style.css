@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+}
+
+.fio {
+    background-color: aqua;
+    font-family: Franklin Gothic ;
+    
+}
+
+.lol {
+    color:darkcyan ;
+    font-family: Franklin Gothic; 
+}
+
+.telefon {
+    font-family: Monotype Corsiva ;
+    color: teal;
+    width: 100px;
+}
+
+.foto {
+    border: solid teal 10px ;
+}
+
+
+.link-header{
+    background-color: aqua;
+}
